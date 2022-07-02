@@ -22,4 +22,7 @@ public class SumofnNaturalnumber {
      }
      System.out.println(sum);
  }
+int n=100, sum =0;
+ //formual of firstbnatual nimber 
+ n=(n*(n+1))/2;
 }
